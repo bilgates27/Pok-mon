@@ -1,4 +1,4 @@
-#POKEMON JSON DATA LINK
+# POKEMON JSON DATA LINK
 https://pokeapi.co/
 
 # Getting Started with Create React App
