@@ -1,3 +1,6 @@
+# DEPLOYED WEB LINK
+https://main--soft-malabi-ad4012.netlify.app/
+
 # POKEMON JSON DATA LINK
 https://pokeapi.co/
 
